@@ -1,5 +1,7 @@
 # CC_Extract
-ROM Extractor for CITY CONNECTION developed NES Releases. (Like RIKI 8BIT GAME Collection, Hebereke Enjoy Edition etc.)
+ROM Extractor for CITY CONNECTION developed NES Releases. 
+
+(Like RIKI 8BIT GAME Collection, Hebereke Enjoy Edition etc.)
 
 ## DISCLAIMER
 
