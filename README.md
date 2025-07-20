@@ -1,11 +1,7 @@
 # CC_Extract
-ROM Extractor for CITY CONNECTION developed NES Releases. 
+ROM Extractor for CITY CONNECTION developed NES Releases (the ones starting from Hebereke Enjoy Edition)
 
-(Like RIKI 8BIT GAME Collection, Hebereke Enjoy Edition etc.)
 
-## DISCLAIMER
-
-This doesn't work for Gimmick! Special Edition (All Releases)
 
 ## Usage
 
